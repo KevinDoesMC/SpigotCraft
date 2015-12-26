@@ -13,6 +13,8 @@ groups:
     - essentials.reply
     - plots.permpack.basic
     - plots.plot.1
+    - essentials.sethome
+    - essentials.home
     options:
       build: false
       rank: '1000'

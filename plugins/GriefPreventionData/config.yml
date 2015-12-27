@@ -14,8 +14,8 @@ GriefPrevention:
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
-    LockWoodenDoors: false
-    LockTrapDoors: false
+    LockWoodenDoors: true
+    LockTrapDoors: true
     LockFenceGates: true
     EnderPearlsRequireAccessTrust: true
     ProtectFires: false
